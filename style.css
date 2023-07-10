@@ -1,0 +1,35 @@
+.custodia {
+width: 150px;
+}
+
+.telefono {
+    width: 100px;
+}
+
+.pellicole {
+    width: 200px;
+}
+
+.bastone {
+    width: 200px;
+}
+
+.ringLight {
+    width: 200px;
+}
+
+td {
+    padding: 50px;
+}
+
+footer {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+.hidden {
+    visibility: hidden;
+}
