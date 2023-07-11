@@ -22,6 +22,11 @@ const titolo = document.querySelector('h1')
 titolo.innerHTML = 'The phones shop'
 }
 
+/*
+const titolo = document.querySelector('h1')
+titolo.innerHTML = 'The phones shop'
+*/
+
 // ESERCIZIO 8: Scrivi una funzione per cambiare il colore di background della pagina
 
 function newBackground() {
